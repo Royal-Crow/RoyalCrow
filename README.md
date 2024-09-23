@@ -8,17 +8,23 @@
 <h3 align="center">Welcome to ROYAL CROW!</h3>
 <p align="center">We are a company dedicated to INNOVATION and TECHNOLOGY, providing CREATIVE solutions for your needs. We aim to develop and deliver high quality products and services, focused on: Efficiency, Safety and Innovation.</p>
 
-<h3 align="center">Bring your ideas to reality with Royal Crow! 👑</h3> 
+<h3 align="center">Bring your ideas to reality with Royal Crow! 👑</h3> <p align="left">
 
 <h3 align="left">
  Our Values: 
 </h3>
 <p align="left">• Dedication to the success of each client<br>• Trust and personal responsibility in all relationships.<br>• Integrity and Honesty<br>• Responsibility<br>• Passion for Technology, Partners and Customers<br>• Excellence</p>
 
+
 <h3 align="right">
+  Our Mission:
+</h3>
+<p align="right">Develop and deliver high-quality projects<br> and services to clients and through our effort<br> transform dreams into concrete ideas </p>
+
+<h3 align="left">
   Our Vision:
 </h3>
-<p align="right">reach as many people as possible with our ideas and make<br> our knowledge available to solve various challenges<br> in order to make the world a more connected place</p>
+<p align="left">reach as many people as possible with our ideas and make<br> our knowledge available to solve various challenges<br> in order to make the world a more connected place</p>
 
 # About us
  Founded on August 11, 2024, <br>
