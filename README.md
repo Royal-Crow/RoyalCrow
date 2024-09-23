@@ -13,7 +13,7 @@
 <h3 align="left">
  Nossos Valores: 
 </h3>
-<p align="left">sssssssssssssssssssssss</p>
+<p align="left">• Dedicação ao sucesso de cada cliente<br>• Confiança e responsabilidade pessoal em todos os relacionamentos.<br>• Integridade e Honestidade<br>• Responsabilidade<br>• Paixão por Tecnologia, Parceiros e Clientes</p>
 
 <h3 align="right">
   Nossas Missões:
