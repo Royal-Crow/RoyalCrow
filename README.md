@@ -29,3 +29,10 @@
 # About us
  Founded on August 11, 2024, <br>
  Our company was founded by renowned programmers Miguel Ribeiro and Vitor Adriano, who found themselves in an uncomfortable situation when they were abandoned by their co-workers during a project, however, they decided to turn it around and saw themselves in an opportunity to create a company together in order to ensure that not only their projects, but also their projects,  but that other people's projects are built and delivered with the due excellence and respect they deserve.
+
+ # Our contact
+ <a href="mailto:royalcrowcompany@gmail.com"> <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+ ## Founders ⚒
+ [<img src="https://github.com/user-attachments/assets/5b217dba-9daa-4b65-a50f-531511515945" width=115 > <br> <sub> Miguel Ribeiro </sub>](https://github.com/Miguelito0o) |
+| :---: |  
